@@ -1,0 +1,14 @@
+{ "columns":6,
+ "image":"..\/..\/..\/Downloads\/dungeon-tileset-1-1-1-1-1.png22-1.png.png",
+ "imageheight":320,
+ "imagewidth":384,
+ "margin":0,
+ "name":"DeathStarTileset",
+ "spacing":0,
+ "tilecount":30,
+ "tiledversion":"1.9.2",
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset",
+ "version":"1.9"
+}
