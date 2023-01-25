@@ -26,4 +26,4 @@ https://games.gdevelop-app.com/game-7921d12a-22d1-46db-b704-e504d6f4e6cc/index.h
 
 ## Download on Desktop:
 
-https://file.io/2HPjK2MLA5zC
+https://drive.google.com/file/d/1gghOa_xiRL3KVqbicaRvewSCEYeY-e7G/view?usp=sharing
